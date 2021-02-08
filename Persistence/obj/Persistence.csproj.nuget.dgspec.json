@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\dev\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
         "projectPath": "D:\\dev\\reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\",
         "outputPath": "D:\\dev\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dmitrii.fadeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -62,11 +62,11 @@
         "projectUniqueName": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
         "projectPath": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\",
         "outputPath": "D:\\dev\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dmitrii.fadeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

@@ -973,7 +973,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -981,11 +981,11 @@
       "projectUniqueName": "D:\\dev\\reactivities\\Application\\Application.csproj",
       "projectName": "Application",
       "projectPath": "D:\\dev\\reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\",
       "outputPath": "D:\\dev\\reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dmitrii.fadeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
