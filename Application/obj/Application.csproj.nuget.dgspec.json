@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\reactivities\\Application\\Application.csproj": {}
+    "d:\\dev\\reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\dev\\reactivities\\Application\\Application.csproj": {
+    "d:\\dev\\reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "d:\\dev\\reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\dev\\reactivities\\Application\\Application.csproj",
+        "projectPath": "d:\\dev\\reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\reactivities\\Application\\obj\\",
+        "outputPath": "d:\\dev\\reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\dev\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\dev\\reactivities\\Domain\\Domain.csproj"
+              "d:\\dev\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\dev\\reactivities\\Domain\\Domain.csproj"
               },
-              "D:\\dev\\reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj"
+              "d:\\dev\\reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "d:\\dev\\reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\dev\\reactivities\\Domain\\Domain.csproj": {
+    "d:\\dev\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "d:\\dev\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\dev\\reactivities\\Domain\\Domain.csproj",
+        "projectPath": "d:\\dev\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\reactivities\\Domain\\obj\\",
+        "outputPath": "d:\\dev\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -121,14 +121,14 @@
         }
       }
     },
-    "D:\\dev\\reactivities\\Persistence\\Persistence.csproj": {
+    "d:\\dev\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "d:\\dev\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "d:\\dev\\reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\reactivities\\Persistence\\obj\\",
+        "outputPath": "d:\\dev\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -143,8 +143,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\dev\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\dev\\reactivities\\Domain\\Domain.csproj"
+              "d:\\dev\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\dev\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }

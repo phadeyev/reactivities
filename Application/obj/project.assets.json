@@ -1032,11 +1032,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "d:\\dev\\reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\dev\\reactivities\\Application\\Application.csproj",
+      "projectPath": "d:\\dev\\reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\reactivities\\Application\\obj\\",
+      "outputPath": "d:\\dev\\reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1051,11 +1051,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\dev\\reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\dev\\reactivities\\Domain\\Domain.csproj"
+            "d:\\dev\\reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "d:\\dev\\reactivities\\Domain\\Domain.csproj"
             },
-            "D:\\dev\\reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj"
+            "d:\\dev\\reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "d:\\dev\\reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }
