@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ai4qX8q5ZDRoxf0u7n5uB7AW4zxJ3LSYGXLq5E9jyBPu8Xod0O9KpivMZ+yoaz0ynsXowaQG76j9El1i35BAgA==",
+  "dgSpecHash": "eD41aa28My5W7DwSJ7KIvrXXOQRcY+LvwYmfwZ9I/fUqRpXJ/a5sZ4Jcwzc/qk2sOMCCLpVErl6K6T5I3iDBzA==",
   "success": true,
   "projectFilePath": "D:\\dev\\reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
