@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\dev\\reactivities\\API\\API.csproj",
         "projectName": "API",
         "projectPath": "D:\\dev\\reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
         "outputPath": "D:\\dev\\reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dmitrii.fadeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -42,6 +42,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
@@ -79,11 +83,11 @@
         "projectUniqueName": "D:\\dev\\reactivities\\Application\\Application.csproj",
         "projectName": "Application",
         "projectPath": "D:\\dev\\reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
         "outputPath": "D:\\dev\\reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dmitrii.fadeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -144,11 +148,11 @@
         "projectUniqueName": "D:\\dev\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
         "projectPath": "D:\\dev\\reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
         "outputPath": "D:\\dev\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dmitrii.fadeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -196,11 +200,11 @@
         "projectUniqueName": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
         "projectPath": "D:\\dev\\reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
         "outputPath": "D:\\dev\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dmitrii.fadeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
